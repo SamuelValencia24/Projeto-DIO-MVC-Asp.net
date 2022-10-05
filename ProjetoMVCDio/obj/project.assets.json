@@ -2015,22 +2015,25 @@
   },
   "packageFolders": {
     "C:\\Users\\samue\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samue\\source\\repos\\ProjetoMVCDio\\ProjetoMVCDio.csproj",
+      "projectUniqueName": "C:\\Users\\samue\\OneDrive\\Documentos\\GitHub\\Projeto-DIO-MVC-Asp.net\\ProjetoMVCDio\\ProjetoMVCDio.csproj",
       "projectName": "ProjetoMVCDio",
-      "projectPath": "C:\\Users\\samue\\source\\repos\\ProjetoMVCDio\\ProjetoMVCDio.csproj",
+      "projectPath": "C:\\Users\\samue\\OneDrive\\Documentos\\GitHub\\Projeto-DIO-MVC-Asp.net\\ProjetoMVCDio\\ProjetoMVCDio.csproj",
       "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samue\\source\\repos\\ProjetoMVCDio\\obj\\",
+      "outputPath": "C:\\Users\\samue\\OneDrive\\Documentos\\GitHub\\Projeto-DIO-MVC-Asp.net\\ProjetoMVCDio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kk/M4LMeig60OzZkjRKFQmwEGM08srsaOM5W5gavi8OJZCwUCnkAOYvp8YnvdX0gFNNYJKewT1eGSHs0kloy1A==",
+  "dgSpecHash": "rSRkf1J6sw7zMx5GlkPKKPILcHiCa9RkX+UbKri+r52DIarUk5JL8fRPbmMQrSh0fpexocqcaw6Ifb/0VtWe2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samue\\source\\repos\\ProjetoMVCDio\\ProjetoMVCDio.csproj",
+  "projectFilePath": "C:\\Users\\samue\\OneDrive\\Documentos\\GitHub\\Projeto-DIO-MVC-Asp.net\\ProjetoMVCDio\\ProjetoMVCDio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samue\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
